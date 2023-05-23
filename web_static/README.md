@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  AirBnB clone - Web static
 Building a web static page for the AirBnB project
 - The first step is to “design” / “sketch” / “prototype” each element:
@@ -46,3 +47,6 @@ Building a web static page for the AirBnB project
 
 ### 12. Accessibility
 - Improve the page by adding Accessibility support
+=======
+0x01. AirBnB clone
+>>>>>>> 132ef64cbab1a9bcc136b2ad365c9fd0262436b3
